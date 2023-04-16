@@ -39,7 +39,7 @@ public class Hello{
 
 		System.out.println("After init pawns");
 		
-
+		System.out.println("new");
 
 		//playGame(board);
 
